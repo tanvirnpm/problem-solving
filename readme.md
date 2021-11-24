@@ -1,3 +1,4 @@
+```js
 let num = 4587;
 const arr = []
 while(num > 0){
@@ -8,3 +9,4 @@ while(num > 0){
   arr.push(''+mod)
 }
 arr.join('')
+```
